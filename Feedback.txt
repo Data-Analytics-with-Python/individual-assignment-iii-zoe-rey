@@ -1,0 +1,5 @@
+
+Question 1: X drops ['ID', 'Dt_Customer', 'MntWines', 'Response'], 
+but keeps other product spending columns (MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts, MntGoldProds): -2
+
+98/100
